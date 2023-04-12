@@ -1,0 +1,10 @@
+{
+  "name": "dsmap",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "https:": "*",
+    "ol": "7.0.0",
+    "resize-observer-polyfill": "1.5.1"
+  }
+}
